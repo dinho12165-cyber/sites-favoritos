@@ -6,7 +6,7 @@ Projeto de desenvolvimento web que organiza sites acessados no dia a dia para pr
 
 ## 🔗 Link do Projeto de Forma Executável
 
-[![Acessar Site](https://shields.io)](https://github.io)
+[![Acessar Site](https://shields.io)](https://dinho12165-cyber.github.io/sites-favoritos/)
 
 ---
 
